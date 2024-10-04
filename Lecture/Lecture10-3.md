@@ -133,3 +133,8 @@ Big Endian: 0x01020304
   - Pipelining results in improve **instruction throughput** for large # of instructions
 
 - Time between instructions (pipeline) = (time between nonpipelined instruction) / # of pipe stages
+
+# IMPORTANT
+
+- DOWNLOAD ARM - KEI uVisionMDK to run assembly
+- DOWNLOAD CPU-LATOR
